@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently diving deep into JavaScript
 - 💬 Ask me about anything that's add productivity in life
-- 📫 How to reach me: [LinkedIn]([https://website-name.com](https://linkedin.com/in/navdeeprthr))
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/navdeeprthr)
 
 <!--
 **navdeeprthr/navdeeprthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
