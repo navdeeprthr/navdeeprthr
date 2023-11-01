@@ -1,4 +1,4 @@
-### Namaste 🙏, I'm Navdeep a learner forever.
+### Namaste 🙏, I'm Navdeep - a student forever.
 
 - 🌱 I’m currently diving deep into JavaScript
 - 💬 Ask me about anything that's add productivity in life
